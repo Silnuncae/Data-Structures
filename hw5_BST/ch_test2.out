@@ -1,0 +1,75 @@
+Welcome to Address Book!
+ADDR> ADD NAME>> ENTER NUMBER>>> The name was successfully added!
+ADDR> ADD NAME>> ENTER NUMBER>>> The name was successfully added!
+ADDR> ADD NAME>> ENTER NUMBER>>> The name was successfully added!
+ADDR> ADD NAME>> ENTER NUMBER>>> The name was successfully added!
+ADDR> aaa : 1111
+abc : 1234
+bbb : 2222
+ccc : 3333
+ADDR> ADD NAME>> ENTER NUMBER>>> The name was successfully added!
+ADDR> aaa : 1111
+abc : 4321
+abc : 1234
+bbb : 2222
+ccc : 3333
+ADDR> ADD NAME>> ENTER NUMBER>>> The name was successfully added!
+ADDR> aaa : 1010
+aaa : 1111
+abc : 4321
+abc : 1234
+bbb : 2222
+ccc : 3333
+ADDR> DELETE NAME>> The name was deleted.
+ADDR> aaa : 1010
+aaa : 1111
+abc : 4321
+abc : 1234
+ccc : 3333
+ADDR> ADD NAME>> ENTER NUMBER>>> The name was successfully added!
+ADDR> ADD NAME>> ENTER NUMBER>>> The name was successfully added!
+ADDR> aaa : 1010
+aaa : 1111
+abc : 4321
+abc : 1234
+bbb : 2222
+bbc : 2233
+ccc : 3333
+ADDR> DELETE NAME>> The name was deleted.
+ADDR> aaa : 1010
+aaa : 1111
+abc : 4321
+abc : 1234
+bbc : 2233
+ccc : 3333
+ADDR> DELETE NAME>> The name was deleted.
+ADDR> aaa : 1010
+aaa : 1111
+abc : 4321
+abc : 1234
+ccc : 3333
+ADDR> DELETE NAME>> The name was deleted.
+ADDR> aaa : 1010
+aaa : 1111
+abc : 4321
+ccc : 3333
+ADDR> ADD NAME>> ENTER NUMBER>>> The name was successfully added!
+ADDR> aaa : 1010
+aaa : 1111
+abc : 1234
+abc : 4321
+ccc : 3333
+ADDR> ADD NAME>> ENTER NUMBER>>> The name was successfully added!
+ADDR> aaa : 1010
+aaa : 1111
+aab : 1112
+abc : 1234
+abc : 4321
+ccc : 3333
+ADDR> DELETE NAME>> The name was deleted.
+ADDR> aaa : 1010
+aaa : 1111
+aab : 1112
+abc : 1234
+ccc : 3333
+ADDR> Quitting ... 
